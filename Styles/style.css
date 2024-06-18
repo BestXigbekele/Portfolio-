@@ -63,7 +63,7 @@ header ul{display: flex;
   margin: 10px 20px 10px 20px;
   border-radius: 20px;
   padding:  30px;
-background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url(/storage/emulated/0/best/Portfolio/back.jpg);
+background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url(back.jpg);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
